@@ -32,3 +32,7 @@ pip freeze > requirements.txt
 1. Create the virtual environment on your machine
 2. Run the following : ```pip install -r requirements.txt```
 3. Please do not forget to add a .gitignore file with the .venv/ folder as an entry in it
+
+## For Windows Users
+1. Run your command prompt as an Administrator
+2. .\.venv\Scripts\activate
